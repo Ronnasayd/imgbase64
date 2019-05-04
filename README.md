@@ -1,6 +1,7 @@
 ﻿# **imgbase64**
 ![enter image description here](https://img.shields.io/pypi/v/imgbase64.svg?color=gree)
 
+transform images into base64
 
 **Command line usage**
 
