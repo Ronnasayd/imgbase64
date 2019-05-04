@@ -9,7 +9,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='imgbase64',
-    version='0.1.5',
+    version='0.1.6',
     url='https://github.com/Ronnasayd/imgbase64',
     license='MIT License',
     author='Ronnasayd de Sousa Machado',
